@@ -1,2 +1,2 @@
 # test-repo
-repository for testin' an' teachin' learnin'
+repository for testin' an' teachin' an' learnin'
